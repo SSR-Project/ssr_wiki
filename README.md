@@ -14,7 +14,10 @@ SSR調査研究 管理者用サンプルアプリケーション
 
 
 * [ユースケース図](https://github.com/takanorioo/SSR_Open_Project/wiki/%E3%83%A6%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%82%B9%E5%9B%B3)
+* [クラス図](https://github.com/SSR-Project/ssr_wiki/wiki/%E3%82%AF%E3%83%A9%E3%82%B9%E5%9B%B3)
 * [DB設計](https://github.com/takanorioo/SSR_Open_Project/wiki/Db%E8%A8%AD%E8%A8%88)
+
+
 
 
 ### アプリケーション構成
