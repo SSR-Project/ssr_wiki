@@ -13,9 +13,9 @@ SSR調査研究 管理者用サンプルアプリケーション
 
 
 
-* [ユースケース図](https://github.com/takanorioo/SSR_Open_Project/wiki/%E3%83%A6%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%82%B9%E5%9B%B3)
+* [ユースケース図](https://github.com/SSR-Project/ssr_wiki/wiki/%E3%83%A6%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%82%B9%E5%9B%B3)
 * [クラス図](https://github.com/SSR-Project/ssr_wiki/wiki/%E3%82%AF%E3%83%A9%E3%82%B9%E5%9B%B3)
-* [DB設計](https://github.com/takanorioo/SSR_Open_Project/wiki/Db%E8%A8%AD%E8%A8%88)
+* [DB設計](https://github.com/SSR-Project/ssr_wiki/wiki/Db%E8%A8%AD%E8%A8%88)
 
 
 
@@ -36,8 +36,8 @@ SSR調査研究 管理者用サンプルアプリケーション
 
 ### 各ルーティングとその説明
 
-* [管理者用アプリケーション](https://github.com/takanorioo/SSR_Open_Project/wiki/%E7%AE%A1%E7%90%86%E8%80%85%E7%94%A8%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
-* [在学生と修了学生用アプリケーション](https://github.com/takanorioo/SSR_Open_Project/wiki/%E5%9C%A8%E5%AD%A6%E7%94%9F%E3%81%A8%E4%BF%AE%E4%BA%86%E5%AD%A6%E7%94%9F%E7%94%A8%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
+* [管理者用アプリケーション](https://github.com/SSR-Project/ssr_wiki/wiki/%E7%AE%A1%E7%90%86%E8%80%85%E7%94%A8%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
+* [在学生と修了学生用アプリケーション](https://github.com/SSR-Project/ssr_wiki/wiki/%E5%9C%A8%E5%AD%A6%E7%94%9F%E3%81%A8%E4%BF%AE%E4%BA%86%E5%AD%A6%E7%94%9F%E7%94%A8%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
 * [非学生用アプリケーション]()
 * 
 
