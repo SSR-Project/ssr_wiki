@@ -53,4 +53,4 @@
 
 ### テスト
 
-* [テスト一覧](https://github.com/SSR-Project/ssr_wiki/wiki/%E8%84%85%E5%A8%81%E4%B8%80%E8%A6%A7)
+* [テスト一覧](https://github.com/SSR-Project/ssr_wiki/wiki/%E3%83%86%E3%82%B9%E3%83%88%E4%B8%80%E8%A6%A7)
